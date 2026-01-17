@@ -130,7 +130,4 @@ Security & Best Practices:
 Rate Limiting:
 100 requests per 15 minutes per IP
 
-the project URL:
-http://localhost:3000/weather.
 
-https://roadmap.sh/projects/weather-api-wrapper-service
