@@ -128,5 +128,7 @@ Security & Best Practices:
 
 
 Rate Limiting:
-
 100 requests per 15 minutes per IP
+
+the project URK:
+http://localhost:3000/weather.
